@@ -1,0 +1,11 @@
+C:\Projects\FIXAnalyzer\bin\Debug\FIXAnalyzer.exe.config
+C:\Projects\FIXAnalyzer\bin\Debug\FIXAnalyzer.exe
+C:\Projects\FIXAnalyzer\bin\Debug\FIXAnalyzer.pdb
+C:\Projects\FIXAnalyzer\obj\Debug\FIXAnalyzer.csproj.AssemblyReference.cache
+C:\Projects\FIXAnalyzer\obj\Debug\FIXAnalyzer.csproj.SuggestedBindingRedirects.cache
+C:\Projects\FIXAnalyzer\obj\Debug\FIXAnalyzer.Form1.resources
+C:\Projects\FIXAnalyzer\obj\Debug\FIXAnalyzer.Properties.Resources.resources
+C:\Projects\FIXAnalyzer\obj\Debug\FIXAnalyzer.csproj.GenerateResource.cache
+C:\Projects\FIXAnalyzer\obj\Debug\FIXAnalyzer.csproj.CoreCompileInputs.cache
+C:\Projects\FIXAnalyzer\obj\Debug\FIXAnalyzer.exe
+C:\Projects\FIXAnalyzer\obj\Debug\FIXAnalyzer.pdb
